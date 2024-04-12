@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppAlgoritmo", "WinFormsAppAlgoritmo.csproj", "{7A2BB296-0BA0-471F-9CC2-EDE15075CAC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A2BB296-0BA0-471F-9CC2-EDE15075CAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2BB296-0BA0-471F-9CC2-EDE15075CAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2BB296-0BA0-471F-9CC2-EDE15075CAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2BB296-0BA0-471F-9CC2-EDE15075CAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9920A16B-797B-4641-B583-5AA576C42CF6}
+	EndGlobalSection
+EndGlobal
